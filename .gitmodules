@@ -1,0 +1,6 @@
+[submodule "Kaska-SSDD"]
+	path = Kaska-SSDD
+	url = git@github.com:alvarocaboUPM/Kaska-SSDD.git
+[submodule "Bitcascade-SSDD"]
+	path = Bitcascade-SSDD
+	url = git@github.com:alvarocaboUPM/Bitcascade-SSDD.git
